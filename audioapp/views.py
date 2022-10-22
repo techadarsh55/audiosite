@@ -1,7 +1,4 @@
-import datetime as dt
 import os
-import shutil
-
 from django.shortcuts import redirect, render
 from gtts import gTTS
 from playsound import playsound
